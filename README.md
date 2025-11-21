@@ -1,4 +1,4 @@
 MASTER change to that line.
 
 
-## This section is in main branch.
+## This is me changing section is in conflict branch2.
